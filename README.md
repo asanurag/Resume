@@ -49,7 +49,7 @@ Note: If you make any changes to your repository, GitHub Pages will automaticall
    ```
 
 2. Open the project folder and ensure you have the following files:
-   - `Resume.html`
+   - `index.html`
    - `style.css`
 
 3. Make sure you have an active internet connection for loading FontAwesome icons.
